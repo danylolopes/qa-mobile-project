@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Allure
+allure-results/
+
+# Screenshots
+screenshots/
+
+# APKs (NUNCA versionar)
+*.apk
+apps/*.apk

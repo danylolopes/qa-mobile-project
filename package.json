@@ -1,0 +1,26 @@
+{
+  "name": "qa-mobile-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.23.2",
+    "@wdio/appium-service": "^9.23.2",
+    "@wdio/cli": "^9.23.2",
+    "@wdio/local-runner": "^9.23.2",
+    "@wdio/mocha-framework": "^9.23.2",
+    "@wdio/spec-reporter": "^9.23.2",
+    "allure-commandline": "^2.36.0",
+    "appium": "^3.1.2",
+    "appium-uiautomator2-driver": "^6.7.11",
+    "chai": "^6.2.2",
+    "webdriverio": "^9.23.2"
+  }
+}
